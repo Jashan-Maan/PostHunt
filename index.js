@@ -24,7 +24,7 @@ let posts = [
   {
     id: uuidv4(),
     username: "Jashanpreet Singh",
-    content: "Consitency is key to success",
+    content: "Consistency is key to success",
   },
   {
     id: uuidv4(),
